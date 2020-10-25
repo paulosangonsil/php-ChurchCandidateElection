@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="9">
+        <file>
+            <url>view/atribuicaotarefa.php</url>
+            <bookmark id="9">
+                <name/>
+                <line>125</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>model/executor.php</url>
+            <bookmark id="8">
+                <name/>
+                <line>431</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>view/gerexecucao.php</url>
+            <bookmark id="5">
+                <name/>
+                <line>98</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Person_PhP">
+            <file>file:/C:/Program%20Files/Apache/Apache24/htdocs/EscolhaDeCandidatos/view/comum.php</file>
+        </group>
+        <group name="Personal">
+            <file>file:/C:/Program%20Files/Apache/Apache24/htdocs/EscolhaDeCandidatos/view/atribuicaotarefa.php</file>
+            <file>file:/C:/Program%20Files/Apache/Apache24/htdocs/EscolhaDeCandidatos/model/executor.php</file>
+            <file>file:/C:/Program%20Files/Apache/Apache24/htdocs/EscolhaDeCandidatos/view/comum.php</file>
+        </group>
+    </open-files>
+</project-private>
